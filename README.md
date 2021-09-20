@@ -7,5 +7,5 @@
 - 😄 Pronouns: He/His
 
 ## Let's Connect 🔗
-[Twitter](twitter.com/srivatsanrr)
-[Linkedin](linkedin.com/in/srivatsan-raveendran)
+[Twitter](https://twitter.com/srivatsanrr)
+[Linkedin](https://linkedin.com/in/srivatsan-raveendran/)
