@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning System on Chip design and Computer Architecture @ Columbia University, NY
-- 👯 I’m looking to collaborate on socially impactful projects, autonomous systems and embedded systems. 
+- 🌱 Interested in research on System on Chip design and Computer Architecture 
+- Currently Master's student @ Columbia University, NY
+- 👯 I’m looking to collaborate on interdisciplinary projects, automotive systems and embedded systems. 
 - 💬 Ask me about: Technology, Indian classical music, philosophy & metaphysics. 
 - 📫 How to reach me: Email: srivatsanrr@gmail.com
 - 😄 Pronouns: He/His
