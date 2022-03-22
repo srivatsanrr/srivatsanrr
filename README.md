@@ -2,7 +2,7 @@
 
 - 🌱 Interested in research on System on Chip design and Computer Architecture 
 - Currently Master's student @ Columbia University, NY
-- 👯 I’m looking to collaborate on interdisciplinary projects, automotive systems and embedded systems. 
+- 👯 I’m looking to collaborate on interdisciplinary projects, smart mobility and embedded systems. 
 - 💬 Ask me about: Technology, Indian classical music, philosophy & metaphysics. 
 - 😄 Pronouns: He/His
 - Publications: https://orcid.org/0000-0001-8335-8806
